@@ -38,6 +38,4 @@ This project analyzes hospital patient data using **SQL** and **Microsoft Excel*
 - Data Analysis
 - Excel Reporting
 
- 👨‍💻 Author
-
-**Kishore Pandi C**
+ 
